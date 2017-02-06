@@ -1,0 +1,39 @@
+2. A report (as a text file) on the execution times and memory usages of your array and linked
+list representations of the stack and the queue.
+
+*execution times
+---------Linked list  implementation---------
+
+Testing Queue
+Elapsed time 15.627000
+
+
+Testing Stack
+Elapsed time 15.627000
+
+---------Array implementation---------
+Testing Queue
+Elapsed time 15.628000
+
+
+Testing Stack
+Elapsed time 0.000000
+Stack testing completed...
+
+
+============================
+
+
+*memory usages
+---------Linked list  implementation---------
+
+Queue: 16 Bytes
+
+Stack : 12 Bytes
+
+
+---------Array implementation---------
+
+Queue: 4000008 Bytes 
+
+Stack: 4000004 Bytes
